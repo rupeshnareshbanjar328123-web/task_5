@@ -1,6 +1,5 @@
 # task_5
 
-Task 5: Kubernetes Deployment Report
  1. Introduction
  The goal of Task 5 was to understand Kubernetes by deploying, scaling, and exposing an
  application on a local cluster.
